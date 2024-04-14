@@ -1,0 +1,15 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "172.31.224.1",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "pgdatabase",
+            "database": "postgres",
+            "username": "postgres"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
